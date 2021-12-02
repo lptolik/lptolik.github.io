@@ -6,7 +6,7 @@ excerpt: 'Here we describe Recon 2, a community-driven, consensus 'metabolic rec
 date: 2013-11-20
 venue: 'Nat Biotechnol'
 paperurl: 'http://dx.doi.org/10.1038/nbt.2488'
-citation: 'Ines Thiele, et al. (2013). &quot;A community-driven global reconstruction of human metabolism.&quot; <i>Nat Biotechnol</i>, 2013 vol. 31 (5) pp. 419-425.'
+citation: 'Ines Thiele, et al. (2013). &quot;A community-driven global reconstruction of human metabolism.&quot; <i>Nat Biotechnol</i>, vol. 31 (5) pp. 419-425.'
 ---
 
 Cited: 614 times
