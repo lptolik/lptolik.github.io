@@ -17,9 +17,11 @@ Education
 
 Work experience
 ======
+**08.2022-now** Senior Computational Biologist in Biological Systems Group in the Okinawa Institute of Science and Technology
+
 **11.2015-now** Senior Researcher in the Laboratory of Molecular and Ion Physics in the Moscow Institute of Physics and Technology
 
-**07.2019-now** Researcher, School of Biochemistry, University of Liverpool
+**07.2019-07.2022** Researcher, School of Biochemistry, University of Liverpool
 
 **07.2014-11.2019** Head of the laboratory of Mechanisms of genome functioning in the Institute of the cell biophysics RAS
 
