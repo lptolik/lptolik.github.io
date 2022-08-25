@@ -10,3 +10,5 @@ redirect_from:
 
 This is the homepage of Anatoly Sorokin.
 
+Currently I'm in Okinawa, Japan, working as a Senior Computational Biologist in 
+Biological Systems Group in the Okinawa Institute of Science and Technology.
