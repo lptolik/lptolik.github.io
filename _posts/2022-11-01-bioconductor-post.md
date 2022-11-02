@@ -1,6 +1,6 @@
 ---
 title: 'New package in Bioconductor'
-date: 2199-01-01
+date: 2022-11-01
 permalink: /posts/2022/11/blog-post-1/
 tags:
   - Bioconductor
