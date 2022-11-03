@@ -9,5 +9,5 @@ paperurl: 'https://doi.org/10.1038/msb4100177'
 citation: 'Hongwu Ma, Anatoly Sorokin, Alexander Mazein, Alex Selkov, Evgeni Selkov, Oleg Demin, and Igor I Goryanin. (2007). &quot;The Edinburgh human metabolic network reconstruction and its functional analysis.&quot; <i>Mol Syst Biol</i>, vol. 3 p. 135.'
 ---
 
-Cited: 294 times
+Cited: 302 times
 

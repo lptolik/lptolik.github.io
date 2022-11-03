@@ -10,4 +10,4 @@ citation: ' V Sobolev,  A Sorokine,  J Prilusky,  E Abola,  M Edelman, &quot;Aut
 ---
 [Access paper here](https://academic.oup.com/bioinformatics/article/15/4/327/238299){:target="_blank"}
 
-Cited: 668 times
+Cited: 686 times
