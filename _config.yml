@@ -84,7 +84,7 @@ author:
   avatar           : "avatar2019.jpg"
   bio              : "Still alive"
   location         : "Okinawa, Japan"
-  employer         : "https://www.oist.jp/"
+  employer         : "OIST"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=anatoly+sorokin"
   googlescholar    : "https://scholar.google.com/citations?user=RXxsflAAAAAJ&hl=en"
   email            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : lptol1k #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
