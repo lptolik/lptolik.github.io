@@ -9,4 +9,4 @@ paperurl: 'https://doi.org/10.1158/0008-5472.CAN-09-0777'
 citation: 'Dana Faratian, Alexey Goltsov, Galina Lebedeva, Anatoly Sorokin, Stuart Moodie, Peter Mullen, Charlene Kay, In Hwa Um, Simon Langdon, Igor I Goryanin, and David J Harrison. (2009). &quot;Systems biology reveals new strategies for personalizing cancer medicine and confirms the role of PTEN in resistance to trastuzumab.&quot; <i>Cancer Res</i>, vol. 69 (16) pp. 6713-6720.'
 ---
 
-Cited: 118 times
+Cited: 122 times

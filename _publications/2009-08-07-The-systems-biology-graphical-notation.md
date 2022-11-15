@@ -9,6 +9,6 @@ paperurl: 'https://doi.org/10.1038/nbt.1558'
 citation: 'Nicolas Le Novère, Michael Hucka, Huaiyu Mi, Stuart Moodie, Falk Schreiber, Anatoly Sorokin, et al. (2009). &quot;The systems biology graphical notation.&quot; <i>Nat Biotechnol</i>, vol. 27 (8) pp. 735-741.'
 ---
 
-Cited: 518 times
+Cited: 553 times
 
 

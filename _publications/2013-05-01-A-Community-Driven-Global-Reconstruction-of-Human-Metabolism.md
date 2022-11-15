@@ -2,7 +2,7 @@
 title: "A Community-Driven Global Reconstruction of Human Metabolism"
 collection: publications
 permalink: /publication/2013-05-01-A-Community-Driven-Global-Reconstruction-of-Human-Metabolism
-excerpt: 'Here we describe Recon 2, a community-driven, consensus 'metabolic reconstruction', which is the most comprehensive representation of human metabolism that is applicable to computational modeling.'
+excerpt: 'Here we describe Recon 2, a community-driven, consensus &quot;metabolic reconstruction&quot;, which is the most comprehensive representation of human metabolism that is applicable to computational modeling.'
 date: 2013-05-01
 venue: 'Nat. Biotechnol.'
 paperurl: 'https://www.nature.com/articles/nbt.2488'
@@ -10,4 +10,4 @@ citation: ' Ines Thiele,  Neil Swainston,  Ronan Fleming,  Andreas Hoppe,  Swaga
 ---
 [Access paper here](https://www.nature.com/articles/nbt.2488){:target="_blank"}
 
-Cited: 614 times
+Cited: 642 times
