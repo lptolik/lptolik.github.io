@@ -17,17 +17,30 @@ Education
 
 Work experience
 ======
-**08.2022-now** Senior Computational Biologist in Biological Systems Group in the Okinawa Institute of Science and Technology
+**08.2022-now** Senior Computational Biologist in Biological Systems Group in the 
+Okinawa Institute of Science and Technology.\
+Analysis of multi-omics data from various environmental and host-related microbial 
+communities. Development of new approaches for the mechanistic understanding of the 
+principles guiding microbial community evolution.
 
-**11.2015-now** Senior Researcher in the Laboratory of Molecular and Ion Physics in the Moscow Institute of Physics and Technology
+**11.2015-now** Senior Researcher in the Laboratory of Molecular and Ion Physics in the 
+Moscow Institute of Physics and Technology.\
+Development of computational infrastructure for collection, storage, retrieval 
+and analysis of the brain tumor tissue fragments molecular profiles obtained with 
+various ambient mass-spectrometry methods. Development new machine learning and AI
+approaches for the tumor boundary detection and estimation of the sample tumor cell 
+percentage from the ambient mass-spectrometry spectra.
 
-**07.2019-07.2022** Researcher, School of Biochemistry, University of Liverpool
+**07.2019-07.2022** Researcher, School of Biochemistry, University of Liverpool.
 
-**07.2014-11.2019** Head of the laboratory of Mechanisms of genome functioning in the Institute of the cell biophysics RAS
+**07.2014-11.2019** Head of the laboratory of Mechanisms of genome functioning in the 
+Institute of the cell biophysics RAS.
 
-**08.2013-06.2014** Lead researcher in the laboratory of Mechanisms of genome functioning  in the Institute of the cell biophysics RAS
+**08.2013-06.2014** Lead researcher in the laboratory of Mechanisms of genome 
+functioning  in the Institute of the cell biophysics RAS.
 
-**04.2011-08.2013** Senior researcher in the laboratory of Mechanisms of genome functioning  in the Institute of the cell biophysics RAS
+**04.2011-08.2013** Senior researcher in the laboratory of Mechanisms of genome 
+functioning  in the Institute of the cell biophysics RAS.
 
 **07.2009-03.2011**  Senior software developer in BioMedCAD project, School
 of Informatics, The University of Edinburgh. Development of PRTR
@@ -53,7 +66,7 @@ genome functioning Institute of the cell biophysics RAS\
 Analysis of promoter-protein recognition on the basis of E.coli sigma-70
 promoter database. Development of algorithm for fast electrostatic
 properties of long DNA fragments evaluation. Analysis of electrostatic
-profiles of promoter regions of chromosome of *E. coli*
+profiles of promoter regions of chromosome of *E. coli*.
 
 **04.2002-08.2003**  EMP Project Lead Software Developer\
 Development of web service and database for biochemical information for
@@ -65,16 +78,16 @@ Development module for statistical analysis of EMP database.
 **05.1998-08.2005** Junior researcher in the laboratory of Mechanisms of
 genome functioning Institute of the cell biophysics RAS\
 Analysis of promoter-protein recognition on the basis of E.coli sigma-70
-promoter database. Development of algorithm for fast electrostatic
-properties of long DNA fragments evaluation. Analysis of electrostatic
-profiles of promoter regions of chromosome of *E. coli*
+promoter database. Development of algorithm for the fast evaluation of electrostatic
+properties of long DNA fragments. Analysis of electrostatic
+profiles of promoter regions of chromosome of *E. coli*.
 
 **02.1997-02.1998** Visiting student in the Plant Genetics Department,
 Weizmann Institute of Science\
 Analysis of ligand-protein contacts in the 3-D complexes (LPC software
 in any PDB mirror), analysis of influence of type of substitution on the
 structure of mutant protein modeling of the 3-D structure of the protein
-on the basis of sequence homology
+on the basis of sequence homology.
 
 **09.1995- 02.1997** Post-graduate student in the laboratory of The cell and
 tissue grow of the Institute of theoretical and experimental biophysics
@@ -82,7 +95,7 @@ RAS.\
 Research: investigation of the rhythm of spontaneously beating
 cardiomyocytes in vitro.\
 Methods:  on-line and off-line signal analysis, signal analysis on the
-basis of nonlinear dynamical and statistical methods
+basis of nonlinear dynamical and statistical methods.
   
 Skills
 ======
