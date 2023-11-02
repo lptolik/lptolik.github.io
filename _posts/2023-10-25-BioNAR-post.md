@@ -1,7 +1,7 @@
 ---
 title: 'BioNAR paper have been published'
 date: 2023-10-25
-permalink: /posts/2023/&0/blog-post-1/
+permalink: /posts/2023/10/blog-post-1/
 tags:
   - Bioconductor
   - package development
