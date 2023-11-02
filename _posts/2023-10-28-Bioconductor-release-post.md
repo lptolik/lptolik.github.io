@@ -1,5 +1,5 @@
 ---
-title: 'Bioconductor'
+title: 'The new Bioconductor release'
 date: 2023-10-28
 permalink: /posts/2023/10/blog-post-2/
 tags:
@@ -18,10 +18,10 @@ From version 1.3.5 the edge weights can be taken into account in clustering and
 centrality measure calculations by `weight` parameter or graph edge attribute. 
 The value of `weight` parameter must be a positive numeric vector, `NULL` or `NA`. 
 If it is `NULL` and the input graph has a ‘weight’ edge attribute, then that 
-attribute will be used. If `NULL` and no such
-attribute is present, then the edges will have equal weights. Set
-this to `NA` if the graph was a `weight` edge attribute, but you don't
-want to use it for community detection. A larger edge weight means a
+attribute will be used. If the `weight` parameter is `NULL` and no such
+attribute is present, then the edges will have unit weights. Set
+the `weight` parameter  to `NA` if the graph was a `weight` edge attribute, 
+but you don't want to use it. A larger edge weight means a
 stronger connection for this function. The weights value is ignored
 for the `spectral` clustering algorithm.
 
@@ -50,7 +50,7 @@ topology of interaction graph can up to some extent reproduce sensitivity patter
 underlying dynamical system. They call their algorithm DYNAMO (DYNamics-Agnostic Network 
 MOdels). For us that algorithm is interesting as it allow negative edge weights to 
 represent inhibition interactions within the network. We rework their original code from 
-[https://github.com/msantolini/dynamo/] to use sparse matrices, which is necessary to work 
+[[https://github.com/msantolini/dynamo/]] to use sparse matrices, which is necessary to work 
 with large graphs. 
 
 ## Decoupling from synaptome.db and synaptome.data packages
