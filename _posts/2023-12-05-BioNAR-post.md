@@ -1,6 +1,6 @@
 ---
-title: 'BioNAR paper have been published'
-date: 2023-10-25
+title: 'BioNAR protocol paper have been published'
+date: 2023-12-05
 permalink: /posts/2023/12/blog-post-1/
 tags:
   - Bioconductor
