@@ -1,7 +1,7 @@
 ---
 title: "BioNAR: an integrated biological network analysis package in bioconductor."
 collection: publications
-permalink: /publication/2023-10-25-BioNAR- an-integrated-biological-network-analysis-package-in-bioconductor
+permalink: /publication/2023-10-25-BioNAR-an-integrated-biological-network-analysis-package-in-bioconductor
 date: 2023-10-25
 venue: 'Bioinformatics Advances'
 paperurl: 'https://www.mdpi.com/2184026'
