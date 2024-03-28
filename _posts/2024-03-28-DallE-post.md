@@ -9,7 +9,8 @@ tags:
 ---
 
 Recent progress on development of generative AI systems cause a discussion of the area of their applicability. Recent paper 
-	Lisa Messeri, M. J. Crockett (2024) &quot;Artificial intelligence and illusions of understanding in scientific research&quot; <i>Nature</i> [10.1038/s41586-024-07146-0](http://dx.doi.org/10.1038/s41586-024-07146-0)
+
+>Lisa Messeri, M. J. Crockett (2024) &quot;Artificial intelligence and illusions of understanding in scientific research&quot; <i>Nature</i> [10.1038/s41586-024-07146-0](http://dx.doi.org/10.1038/s41586-024-07146-0)
 
 describes some risks that generative AI poses on research community if used blindly. 
 
@@ -22,7 +23,8 @@ Very nice-looking picture, but absolutely meaningless. First of all it takes sty
 Then, no name without mistake, and the final one the diagram is meaningless. Glycolysis, as we all know, takes place in cytosol, there is no need to draw mitochondrial lumen despite how beautiful picture is, and neither names nor connections within lumen have no meaning.
 
 We have tried one more time, now Dall-E respond:
-	I've created an updated illustration that incorporates the real names and structural formulas of compounds involved in both the glycolytic pathway and the TCA cycle. This version emphasizes scientific accuracy, showcasing each compound's role and the enzymes responsible for their transformation.
+
+>I've created an updated illustration that incorporates the real names and structural formulas of compounds involved in both the glycolytic pathway and the TCA cycle. This version emphasizes scientific accuracy, showcasing each compound's role and the enzymes responsible for their transformation.
 
 and draw the picture
 
