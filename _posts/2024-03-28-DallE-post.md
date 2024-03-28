@@ -17,7 +17,7 @@ The main mode discussed in relation to generative AI is text-to-text, like chatB
 
 ![](/images/dalle-1.png)
 
-Very nice-looking picture, but absolutely meaningless. First of all it takes style from signaling pathway posters, like ones taken from  [here](https://ruo.mbl.co.jp/bio/e/literature/pathways/nf-kappab.html):![](https://ruo.mbl.co.jp/bio/e/literature/pathways/images/NF-KappaB-Pathway.jpg)
+Very nice-looking picture, but absolutely meaningless. First of all it takes style from signaling pathway posters, like ones taken from  [here](https://ruo.mbl.co.jp/bio/e/literature/pathways/nf-kappab.html).
 
 Then, no name without mistake, and the final one the diagram is meaningless. Glycolysis, as we all know, takes place in cytosol, there is no need to draw mitochondrial lumen despite how beautiful picture is, and neither names nor connections within lumen have no meaning.
 
