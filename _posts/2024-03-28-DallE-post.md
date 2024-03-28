@@ -32,5 +32,5 @@ and draw the picture
 
 This time we see the cycle, even two of them. On top that cycle, for some reason, alien DNA is drawn. It is alien, no doubts, as normal Earth-evolved DNA have only two strains, not three. Again no meaningful names on the picture, however some could be guessed. But they are placed randomly, for example fumarate is not a cyclic hexose, as shown on the picture.
 
-And the final funny note: glycolysis with smiles:
+And the final funny note -- glycolysis with smiles:
 ![](/images/dalle-3.png) 
