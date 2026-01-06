@@ -17,13 +17,16 @@ Education
 
 Work experience
 ======
-**08.2022-now** Senior Computational Biologist in Biological Systems Group in the 
+**09.2025-now** Modeler, InSysBio UK\
+QSP modeling, virtual populations, PopPK/PD.
+
+**08.2022-08.2025** Senior Computational Biologist in Biological Systems Group in the 
 Okinawa Institute of Science and Technology.\
 Analysis of multi-omics data from various environmental and host-related microbial 
 communities. Development of new approaches for the mechanistic understanding of the 
 principles guiding microbial community evolution.
 
-**11.2015-now** Senior Researcher in the Laboratory of Molecular and Ion Physics in the 
+**11.2015-04.2022** Senior Researcher in the Laboratory of Molecular and Ion Physics in the 
 Moscow Institute of Physics and Technology.\
 Development of computational infrastructure for collection, storage, retrieval 
 and analysis of the brain tumor tissue fragments molecular profiles obtained with 
