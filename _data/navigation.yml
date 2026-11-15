@@ -12,6 +12,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "Lecture Notes"
+    url: /notes/
+    
   - title: "CV"
     url: /cv/
 notes_nav:
