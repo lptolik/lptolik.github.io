@@ -14,4 +14,11 @@ main:
     
   - title: "CV"
     url: /cv/
+notes_nav:
+  - title: "Курс Вычислительной Системной Биологии"
+    children:
+      - title: "01. Что такое Системная Биология"
+        url: /notes/csb/lecture-01/
+      - title: "02. Метаболизм"
+        url: /notes/csb/lecture-02/
     
